@@ -1,6 +1,5 @@
-import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/whatsapp-ai-homepage/',
-});
-
+  plugins: [react()],
+  base: "./"
+})
