@@ -230,7 +230,7 @@ a:hover {
 .hero-3d canvas {
   width: 100% !important;
   height: auto !important;
-  min-height: 320px;
+  min-height: 260px;
   display: block;
   flex: 1 1 auto;
 }
